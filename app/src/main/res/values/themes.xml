@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bibliaxml" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorAccent">@color/secondaryDark</item>
+        <item name="android:windowBackground">@color/primaryLight</item>
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:colorBackground">@color/primaryLight</item>
+        <item name="android:colorButtonNormal">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.Bibliaxml" parent="Base.Theme.Bibliaxml" />
+
+    <!-- Estilo para los botones -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+</resources>

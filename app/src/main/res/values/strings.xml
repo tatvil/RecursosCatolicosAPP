@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Recursos Catolicos</string>
+    <string name="buscar_versiculos">Buscar Versículos</string>
+    <string name="favorite">Favorito</string>
+    <string name="bible_search">Buscar en la biblia</string>
+
+    <string-array name="bible_books">
+        <item>Génesis</item>
+        <item>Éxodo</item>
+        <item>Levítico</item>
+        <item>Números</item>
+        <item>Deuteronomio</item>
+        <item>Josué</item>
+        <item>Jueces</item>
+        <item>Rut</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Reyes</item>
+        <item>2 Reyes</item>
+        <item>1 Crónicas</item>
+        <item>2 Crónicas</item>
+        <item>Esdras</item>
+        <item>Nehemías</item>
+        <item>Ester</item>
+        <item>Job</item>
+        <item>Salmos</item>
+        <item>Proverbios</item>
+        <item>Eclesiastés</item>
+        <item>Cantar de los Cantares</item>
+        <item>Isaías</item>
+        <item>Jeremías</item>
+        <item>Lamentaciones</item>
+        <item>Ezequiel</item>
+        <item>Daniel</item>
+        <item>Oseas</item>
+        <item>Joel</item>
+        <item>Amós</item>
+        <item>Abdías</item>
+        <item>Jonás</item>
+        <item>Miqueas</item>
+        <item>Nahum</item>
+        <item>Habacuc</item>
+        <item>Sofonías</item>
+        <item>Hageo</item>
+        <item>Zacarías</item>
+        <item>Malaquías</item>
+        <item>Mateo</item>
+        <item>Marcos</item>
+        <item>Lucas</item>
+        <item>Juan</item>
+        <item>Hechos</item>
+        <item>Romanos</item>
+        <item>1 Corintios</item>
+        <item>2 Corintios</item>
+        <item>Gálatas</item>
+        <item>Efesios</item>
+        <item>Filipenses</item>
+        <item>Colosenses</item>
+        <item>1 Tesalonicenses</item>
+        <item>2 Tesalonicenses</item>
+        <item>1 Timoteo</item>
+        <item>2 Timoteo</item>
+        <item>Tito</item>
+        <item>Filemón</item>
+        <item>Hebreos</item>
+        <item>Santiago</item>
+        <item>1 Pedro</item>
+        <item>2 Pedro</item>
+        <item>1 Juan</item>
+        <item>2 Juan</item>
+        <item>3 Juan</item>
+        <item>Judas</item>
+        <item>Apocalipsis</item>
+    </string-array>
+</resources>

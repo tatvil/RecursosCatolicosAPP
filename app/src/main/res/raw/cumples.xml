@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Enero -->
+    <cumple fecha="04-01">Javier Almendro</cumple>
+    <!-- Febrero -->
+    <cumple fecha="01-02">Alberto Villa de la Torre</cumple>
+    <cumple fecha="01-02">Sue Hoole</cumple>
+    <cumple fecha="12-02">Sonia Slutzi</cumple>
+    <cumple fecha="14-02">Andrea Postlbauer Villa</cumple>
+    <!-- Marzo -->
+    <cumple fecha="17-03">Patricio Teleco</cumple>
+    <!-- Abril -->
+    <cumple fecha="08-04">Tatiana Villa Ema</cumple>
+    <!-- Mayo -->
+    <cumple fecha="11-05">Luz Martin Villa</cumple>
+    <!-- Junio -->
+    <cumple fecha="26-06">Aitor Ema Hoole</cumple>
+    <!-- Julio -->
+    <cumple fecha="08-07">Carlos Villa de la Torre</cumple>
+    <cumple fecha="16-07">Johann Postlbauer</cumple>
+    <!-- Agosto -->
+
+    <!-- Septiembre -->
+    <cumple fecha="16-09">Gema Queralt Lortzing</cumple>
+    <!-- Octubre -->
+    <cumple fecha="14-10">Jose Luis Villa de la Torre</cumple>
+    <cumple fecha="17-10">Patricia Villa Ema</cumple>
+    <cumple fecha="19-10">Mercedes Ema Diaz</cumple>
+    <cumple fecha="24-10">Arantxa Villa Ema</cumple>
+    <!-- Noviembre -->
+    <cumple fecha="24-11">Nicolás y Leo Postlbauer Villa</cumple>
+    <!-- Diciembre -->
+    <cumple fecha="29-12">Juan Postlbauer Correas</cumple>
+</resources>

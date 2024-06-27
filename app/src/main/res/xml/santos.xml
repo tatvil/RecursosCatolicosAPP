@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/xml/santos.xml -->
+<santos>
+    <santo fecha="12-01">Santa Tatiana</santo>
+    <santo fecha="13-01">San Hilario</santo>
+    <santo fecha="14-01">San Félix</santo>
+    <santo fecha="15-01">San Mauro</santo>
+    <santo fecha="24-06">San Juan</santo>
+    <santo fecha="26-06">San Jose Maria Escrivá</santo>
+    <santo fecha="29-06">San Pedro</santo>
+    <santo fecha="30-06">San Pablo</santo>
+    <santo fecha="16-07">Virgen del Carmen</santo>
+    <santo fecha="25-07">Santiago Apostol</santo>
+</santos>
